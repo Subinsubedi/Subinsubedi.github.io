@@ -1,0 +1,25 @@
+body{
+	background-image: url(lab4.2steak.jpg);
+	background-size: 100%, 100%;
+}
+div {
+    font-family: anurati;
+    color:black;
+    text-align: center;
+    margin-top:250px;
+   
+}
+
+h1{
+
+    text-align:center;
+    font-size: 75px;
+    margin:0px;
+    padding:0px;
+    text-shadow: 2px 1px 1px grey;
+}
+p{
+  
+    font-size: 40px;
+    text-shadow: 1px 1px 3px lightgrey;
+}
